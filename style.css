@@ -73,6 +73,14 @@ body {
     background-position: left bottom;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+#experience-heading {
+    margin-left: 5%;
+}
+
 footer p {
     text-align: center;
 }
